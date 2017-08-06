@@ -12,6 +12,9 @@ The chipset driver is RTL8814AU
 * git clone https://github.com/madmantm/rtl8814au
 * make RTL8814=1
 * sudo make RTL8814=1 install
+* sudo modprobe 8814au
+
+plug your adapter and everything should work.
 
 ### for Kali Linux
 apt install realtek-rtl88xxau-dkms.
