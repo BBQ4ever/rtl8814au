@@ -30,3 +30,7 @@ Note : airmon-ng doesn't work to make the card go in monitor mode you have to do
 
 ### to make aircrack-ng use the 5ghz bands
 sudo airodump-ng -c 149 wlan0 -w psk --band a
+
+
+
+Note : i do not own these drivers, not looking for credit, only a method to make these work with my setup. 
