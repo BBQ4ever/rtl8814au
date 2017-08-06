@@ -7,7 +7,7 @@ The chipset driver is RTL8814AU
 
 ### for Fedora26
 * sudo dnf install elfutils-libelf-devel
-* git clone https://github.com/madmantm/rtl8812au
+* git clone https://github.com/madmantm/rtl8814au
 * make RTL8814=1
 * sudo make RTL8814=1 install
 
